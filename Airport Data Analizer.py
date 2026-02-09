@@ -1,6 +1,7 @@
 """
 ****************************************************************************
-Student ID: [20240761]
+Author : Husni Atham
+Student ID: [20240761] 
 Date: [02-07-2025]
 ****************************************************************************
 """
@@ -227,8 +228,9 @@ def main():
 
         repeat = input("Do you want to select a new data file? Y/N: ").strip().upper()
         if repeat != 'Y':
-            print("Thank you. End of run.")
+            print("Thank you . End of run.")
             break
 
 # Run the program
 main()
+
